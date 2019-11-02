@@ -1,0 +1,5 @@
+C:\Users\ilyasisik\source\repos\WebServiceApplication\AuthService\bin\Debug\AuthService.dll
+C:\Users\ilyasisik\source\repos\WebServiceApplication\AuthService\bin\Debug\AuthService.pdb
+C:\Users\ilyasisik\source\repos\WebServiceApplication\AuthService\obj\Debug\AuthService.csprojAssemblyReference.cache
+C:\Users\ilyasisik\source\repos\WebServiceApplication\AuthService\obj\Debug\AuthService.dll
+C:\Users\ilyasisik\source\repos\WebServiceApplication\AuthService\obj\Debug\AuthService.pdb
